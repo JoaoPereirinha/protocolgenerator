@@ -23,7 +23,7 @@ The Excel file must include a column named nome_aluno. The value in this column 
 Adjust the script to ensure that your template field names match your Excel columns.
 
 Technologies Used
-Python 3.x
+Python
 
 openpyxl — for handling Excel files
 
